@@ -33,4 +33,5 @@
 
     <!-- FullCalendar -->
 <script type="text/javascript" src="./lib/Fullcalendar/main.js"></script>
+<script type="text/javascript" src="./lib/Fullcalendar/locales-all.min.js"></script>
 
