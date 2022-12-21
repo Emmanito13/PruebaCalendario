@@ -45,7 +45,7 @@
             </div>
 
             <div class="form-group col-md-6" id="tituloHoraFin">
-                <label for="horaFin">Hora de inicio:</label>
+                <label for="horaFin">Hora de fin:</label>
                 <div class="input-group clockpicker" data-autoclose="true">
                     <input type="text" id="horaFin" class="form-control" autocomplete="off">
                 </div>

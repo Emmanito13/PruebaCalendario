@@ -31,11 +31,17 @@
             </div>
 
             <div class="col-2">
-                <div id="external-events">
-                    <h4 class="text-center">Eventos predefinidos</h4>
-                    <div id="listaEventosPredefinidos">
-                                                
+                <div class="row">
+                    <div id="external-events">
+                        <h4 class="text-center">Eventos predefinidos</h4>
+                        <div id="listaEventosPredefinidos">
+
+                        </div>
                     </div>
+                </div>
+
+                <div class="row">
+                    
                 </div>
                 <hr>
                 <div id="section-btn-eventos-predefinidos">
